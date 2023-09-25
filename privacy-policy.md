@@ -13,7 +13,7 @@ When you use our app, we automatically collect specific device information like 
 We collect crash logs to identify and address issues within the app for a better user experience.
 
 ## How We Use Your Information
-The information we collect is used solely for improving the app and fixing any issues. We do not measure any usage trends or record any swings.
+The information we collect is used solely for improving the app and fixing any issues.
 
 ## Billing Information
 All billing transactions are handled exclusively by the App Store. We do not collect or store any billing information.
